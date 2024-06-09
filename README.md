@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Links]
 ## All the links at a single and beautiful place!
 
@@ -43,3 +44,6 @@ or just watch [this] youtube tutorial to finish up your own links!!!
 MIT
 
 **Free Software, Hell Yeah!**
+=======
+# social_links
+>>>>>>> 9740910db08e1ff2b6c0f38f2f603ceb4a8d5791
