@@ -3,7 +3,7 @@ var linknames = {};
 
 
 var data = document.createElement("p");
-data.innerHTML = "Code With Love By <a href='https://iamkunal9.github.io/links/' target='_blank'>iamkunal9</a>";
+data.innerHTML = "Code With Love By <a href='https://github.com/nakshatragupta07/social_links/' target='_blank'>Nakshatra Kumar Gupta</a>";
 
 document.addEventListener('click', function(event) {
     var target = event.target;

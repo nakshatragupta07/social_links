@@ -5,47 +5,47 @@
   },
   "userdetails": {
     "userimage": "images/sq.png",
-    "username": "iamkunal9",
+    "username": "Nakshatra Kumar Gupta",
     "userbio": "A coder, Techie, Eth Hacker!!!"
   },
   "links": {
     "Instagram": {
-      "href": "https://instagram.com/iamkunal9here",
+      "href": "https://www.instagram.com/nakshatragupta07",
       "src": "images/icons/instagram.gif"
     },
     "Github": {
-      "href": "https://github.com/iamkunal9",
+      "href": "https://github.com/nakshatragupta07",
       "src": "images/icons/github.gif"
     },
     "Linkedin": {
-      "href": "https://linkedin.com/in/iamkunal9",
+      "href": "https://www.linkedin.com/in/nakshatragupta07",
       "src": "images/icons/linkedin.gif"
     },
     "Twitter": {
-      "href": "https://twitter.com/iamkunal9_",
+      "href": "https://x.com/nakshatragupt07",
       "src": "images/icons/twitter.gif"
     },
     "SnapChat": {
-      "href": "https://www.snapchat.com/add/kunalsharma0553?share_id=m-2FitLng4E&locale=en-US",
+      "href": "https://www.snapchat.com/add/nakshatragupta7?share_id=27meQY6O6U4&locale=en-IN",
       "src": "images/icons/snap.gif"
     },
     "YouTube":{
-      "href": "https://www.youtube.com/@iamkunal9",
+      "href": "https://youtube.com/@nakshatragupta07",
       "src": "images/icons/youtube.gif"
     },
     "Buy Me A Coffee": {
-      "href": "https://www.buymeacoffee.com/iamkunal9",
+      "href": "https://github.com/nakshatragupta07",
       "src": "images/icons/coff.gif"
     },
     "Contact Me": {
-      "href": "mailto:kunalsharma0553@gmail.com",
+      "href": "mailto:nakshatraguptaofficial@gmail.com",
       "src": "images/icons/mail.gif"
     }
   },
   "projects":{
-    "Links":"https://github.com/iamkunal9/links",
-    "TruecallerBOT":"https://appopener.com/web/3d6qh47rb",
-    "Url Shortner":"https://skip.ga",
-    "Aarohan Web":"https://aarohan.poornima.org"
+    "social_links":"https://github.com/nakshatragupta07/social_links",
+    "Ecommerce":"https://github.com/nakshatragupta07/ecommerce-django",
+    "whatsapp UI":"https://github.com/nakshatragupta07/whatsapp_chat_app",
+    "Travel India":"https://github.com/nakshatragupta07/flutter-main_project"
   }
 }

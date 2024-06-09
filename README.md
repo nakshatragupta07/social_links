@@ -1,9 +1,9 @@
 # [Links]
 ## All the links at a single and beautiful place!
 
-[![Links](https://media.discordapp.net/attachments/994237473460854804/1035868128493707354/unknown.png)](https://iamkunal9.github.io/links)
+[![Links](https://media.discordapp.net/attachments/994237473460854804/1035868128493707354/unknown.png)](https://github.com/nakshatragupta07/social_links)
 
-Links is a easy and a single place to keep all your `links`!
+Links is a easy and a single place to keep all your `social_links`!
 
 - Just update the [`js/info.json`]
 - Add your username, bio, profile, projects and links there.
@@ -29,7 +29,7 @@ Just pull this repo do changes in [info.json] and just host using github pages o
   },
   "userdetails": {
     "userimage": "/images/sq.png",
-    "username": "iamkunal9",
+    "username": "Nakshatra Kumar Gupta",
     "userbio": "A coder, Techie, Eth Hacker!!!"
   },
 ```
@@ -43,9 +43,3 @@ or just watch [this] youtube tutorial to finish up your own links!!!
 MIT
 
 **Free Software, Hell Yeah!**
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-   [Links]:<https://iamkunal9.github.io/links>
-   [`js/info.json`]: <https://github.com/iamkunal9/links/js/info.json>
-   [info.json]: <https://github.com/iamkunal9/links/js/info.json>
-   [this]: <https://youtu.be/BZr6YM_Ovwc>

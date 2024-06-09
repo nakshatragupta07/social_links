@@ -2,10 +2,11 @@
 h1,p {
     text-align: center;
     /* display: block; */
+    color: #d3a249;
 }
 a{
     text-decoration: none;
-    color: black;
+    color: #d3a249;
 }
 #project{
     font-family: 'Allura', cursive;
