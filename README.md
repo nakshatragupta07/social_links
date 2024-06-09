@@ -1,10 +1,9 @@
-<<<<<<< HEAD
-# [Links]
-## All the links at a single and beautiful place!
+# [social_links]
+## All the social_links at a single and beautiful place!
 
-[![Links](https://media.discordapp.net/attachments/994237473460854804/1035868128493707354/unknown.png)](https://github.com/nakshatragupta07/social_links)
+[![social_links](https://media.discordapp.net/attachments/994237473460854804/1035868128493707354/unknown.png)](https://github.com/nakshatragupta07/social_links)
 
-Links is a easy and a single place to keep all your `social_links`!
+social_links is a easy and a single place to keep all your `social_links`!
 
 - Just update the [`js/info.json`]
 - Add your username, bio, profile, projects and links there.
@@ -35,7 +34,6 @@ Just pull this repo do changes in [info.json] and just host using github pages o
   },
 ```
 
-or just watch [this] youtube tutorial to finish up your own links!!!
 
 
 
@@ -44,6 +42,3 @@ or just watch [this] youtube tutorial to finish up your own links!!!
 MIT
 
 **Free Software, Hell Yeah!**
-=======
-# social_links
->>>>>>> 9740910db08e1ff2b6c0f38f2f603ceb4a8d5791
